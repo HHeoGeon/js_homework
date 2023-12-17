@@ -7,9 +7,6 @@
 5. 함수 분리
 
 */
-
-// 1. 클릭 이벤트 활성화
-
 // const nav = document.querySelector(".nav");
 // const visualImage = document.querySelector(".visual img");
 
